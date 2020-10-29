@@ -1,16 +1,31 @@
-### Hi there 👋
+###  Rodrigo (Rodevp)
+Programador Js por hobbit 👩‍💻. Amante de la ciencia 👨‍🔬 y el arte 👨‍🎨, functional programming fanboy e intento hacer cosas raras en python 🐍.
 
-<!--
-**Rodevp/Rodevp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Entusiasta de la tecnologia y amor por el código.  
 
-Here are some ideas to get you started:
+## Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+  const skills = {
+      basics: [
+        'html 🦴',
+        'css 👨‍🎨 ',
+        'javascript 👨‍💻 -> basic/intermediate'
+      ],
+      
+      intermediate: [
+          'sass -> basic / intermediate',
+          'React js ❄ -> learning' 
+      ],
+      
+      otherSkills: [
+        ' python 🐍 -> basic',
+        ' data structure -> basic',
+        ' functional programming -> learning'
+      ]
+  }
+```
+
+
+
