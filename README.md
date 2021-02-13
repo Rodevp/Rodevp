@@ -15,13 +15,13 @@ Entusiasta de la tecnologia y amor por el código.
       ],
       
       intermediate: [
+          ' python 🐍',
           'React js ❄' 
       ],
       
       otherSkills: [
-        ' python 🐍 -> basic',
         ' data structure -> basic',
-        ' functional programming -> learning'
+        ' functional programming'
       ]
   }
 ```
