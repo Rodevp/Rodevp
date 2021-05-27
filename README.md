@@ -16,7 +16,6 @@ Entusiasta de la tecnologia y amor por el código.
       
       intermediate: [
           'Python 🐍',
-          'Vue js ❄' 
       ],
       
       otherSkills: [
