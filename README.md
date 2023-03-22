@@ -1,8 +1,6 @@
 ###  Rodrigo (Rodevp)
-Programador Js por hobbit 👩‍💻. Amante de la ciencia 👨‍🔬 y el arte 👨‍🎨, functional programming fanboy e intento hacer cosas raras en python 🐍.
-
-## Sobre mí
-Entusiasta de la tecnologia y amor por el código.  
+Self-taught programmer. Focused on JavaScript, Node.js, React and React Native. I love C 👀 and Functional Programming... 
+Ohh, Lover of science 👨‍🔬 and animaciones 👨‍.
 
 ## Habilidades
 
