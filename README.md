@@ -1,27 +1,18 @@
 ###  Rodrigo (Rodevp)
-Self-taught programmer. Focused on JavaScript, Node.js, React and React Native. I love C 👀 and Functional Programming... 
-Ohh, Lover of science 👨‍🔬 and animations 👨‍.
+Declarativo como React Native, elegante como iOS (swift), y siempre buscando la belleza en la programación funcional. Pythonero por diversión  🚀📱🌟
+
+##Sobre mi:
+¡Hola! 👋 Soy Rodrigo, el mago del código React Native. 🪄 Cuando no estoy convirtiendo café en aplicaciones móviles, me encanta explorar el misterioso mundo de los dispositivos móviles. 🚀
 
 ## Habilidades
 
-```js
-  const skills = {
-      basics: [
-        'html 🦴',
-        'css 👨‍🎨 ',
-        'javascript 👨‍💻 -> basic/intermediate'
-      ],
-      
-      intermediate: [
-          'Python 🐍',
-      ],
-      
-      otherSkills: [
-        ' data structure -> basic',
-        ' functional programming'
-      ]
-  }
-```
+### Lenguajes
+- TypeScript 🚀
+- Python 🐍
+- Swift 📱
+
+### Herramientas
+- React Native ⚛️
 
 
 
