@@ -1,24 +1,19 @@
 ###  Rodrigo (Rodevp)
-Declarativo como React Native, elegante como iOS (swift), y siempre buscando la belleza en la programación funcional. Pythonero por diversión  🚀📱🌟
+Backend enthusiast apasionado por la programación funcional y obsesionado con construir soluciones sólidas y eficientes 💻🚀
 
 ## Sobre mi
-¡Hola! Soy Rodrigo, con experiencia en desarrollo móvil con un enfoque especial en React Native y el entorno IOS y me encanta aplicar mis conocimientos para desarrollar nuevas ideas. 📱💼
+Hola! Soy Rodrigo, un entusiasta programador backend con un profundo interés en la programación funcional. Mi objetivo es utilizar mis conocimientos para desarrollar sistemas eficaces y fiables en el mundo del desarrollo backend 💻🌐.
 
 ## Habilidades
 
 ### Lenguajes
 - TypeScript 🚀
 - Python 🐍
-- Swift 📱
 
 ### Herramientas
 - React Native ⚛️
+- Nest js
 
-### Intereses
-- Matematicas
-- Dibujo
-- Futbol
-- Boxeo
 
 
 
