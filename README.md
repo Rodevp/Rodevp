@@ -12,9 +12,8 @@ Con sede en Colombia, soy un front-end developer apasionado sobre cómo crear ap
 - Python 🐍
 
 ### Herramientas
-- React js
+- Angular
 - React Native ⚛️
-- Next js
 
 
 
