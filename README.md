@@ -1,22 +1,7 @@
-Ingeniero de Datos Junior especializado en Azure, SQL Server y SQL. Experiencia trabajando con Python para automatización y procesamiento de datos, y actualmente ampliando conocimientos en Databricks y arquitecturas modernas de datos en la nube. Apasionado por construir soluciones escalables, eficientes y orientadas a la toma de decisiones basada en datos.
+🚀 Full Stack Developer | Cloud & DevOps Enthusiast
+Desarrollador Full Stack orientado a la escalabilidad, automatización e infraestructura cloud. Experiencia construyendo aplicaciones end-to-end en entornos productivos con Node.js, TypeScript, React, Vue, y MongoDB / SQL.
 
-## Habilidades
+👨‍🚀Evolución profesional (DevOps & MLOps):
+Transicionando mi perfil hacia DevOps / Cloud Engineering, aplicando buenas prácticas en Microsoft Azure, Docker, pipelines de CI/CD y automatización de despliegues.
 
-### Tecnologías Principales
-- Azure ☁️
-- SQL Server 🗄️
-- SQL 📊
-- Python 🐍
-- Databricks ⚡
-
-### Áreas de Especialización
-- Ingeniería de Datos
-- ETL / ELT
-- Modelado de Datos
-- Optimización de Consultas SQL
-- Automatización de Procesos
-- Data Warehousing
-- Procesamiento de Datos
-
-
-
+Puedes ver mi portafolio aqui: https://portforlio-v3.vercel.app/
